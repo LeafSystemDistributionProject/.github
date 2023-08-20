@@ -5,7 +5,10 @@ OLIB is short name of Operachi's Lightiweight Library.
 
 Our goal is to create OLIB, an ONIX with a hybrid kernel that would be lightweight and not be bloatware.
 
-- Team ONIX 
+- Team ONIX
+# Todo
+OLIB - in development
+Kernel - not started
 # Credits
 PiteTo - Logo, UI
 
