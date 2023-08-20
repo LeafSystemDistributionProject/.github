@@ -8,6 +8,7 @@ Our goal is to create OLIB, an ONIX with a hybrid kernel that would be lightweig
 - Team ONIX
 # Todo
 OLIB - in development
+
 Kernel - not started
 # Credits
 PiteTo - Logo, UI
