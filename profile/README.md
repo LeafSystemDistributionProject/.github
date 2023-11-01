@@ -11,7 +11,7 @@ OLIB - in development
 
 Kernel - in development
 # Credits
-PiteTo - Logo, UI
+PiteTo - Logo
 
 Zapomnij - OLIB, Kernel
 
