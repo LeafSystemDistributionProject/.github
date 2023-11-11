@@ -1,18 +1,14 @@
 # Description
-ONIX is short name of Operachi's Unix.
+Our goal is to create CrunchyLeafLibrary, an CrunchyLeafSystem with a hybrid kernel that would be lightweight, embedded and not be bloatware.
 
-OLIB is short name of Operachi's Lightiweight Library.
-
-Our goal is to create OLIB, an ONIX with a hybrid kernel that would be lightweight, embedded and not be bloatware.
-
-- Team ONIX
+- Team CrunchyLeafSystem
 # Todo
-OLIB - in development
+CrunchyLeafLibrary - in development
 
 Kernel - in development
 # Credits
-PiteTo - Logo
+PiteTo - Old Logo
 
-Zapomnij - OLIB, Kernel
+Zapomnij - CrunchyLeafLibrary, Kernel
 
-Operachi - OLIB, Kernel
+Operachi - CrunchyLeafLibrary, Kernel
