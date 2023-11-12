@@ -7,8 +7,10 @@ CrunchyLeafLibrary - in development
 
 Kernel - in development
 # Credits
-PiteTo - Old Logo
+New Logo - NIPERR, Operachi
 
-Zapomnij - CrunchyLeafLibrary, Kernel
+Old Logo - PiteTo
 
-Operachi - CrunchyLeafLibrary, Kernel
+CrunchyLeafLibrary - Operachi, Zapomnij
+
+Kernel - Operachi
