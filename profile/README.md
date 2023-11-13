@@ -6,6 +6,8 @@ Our goal is to create CrunchyLeafLibrary, an CrunchyLeafSystem with a hybrid ker
 CrunchyLeafLibrary - in development
 
 Kernel - in development
+
+SpinnerByte File System (SBFS) - planned
 # Credits
 New Logo - NIPERR, Operachi
 
