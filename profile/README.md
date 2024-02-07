@@ -1,5 +1,5 @@
 LSDP - Leaf System Distribution Project
 
-Planned Project - Deligma (Kernel "delta" + "sigma" = "deligma")
+Project in development- Deligma (Kernel "delta" + "sigma" = "deligma")
 
 Far Planned Projects - LeafFileSystem (LFS), CrunchyLeafLibrary (CLIBC)
